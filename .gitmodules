@@ -1,0 +1,3 @@
+[submodule "Libs/gtm-http-fetcher"]
+	path = Libs/gtm-http-fetcher
+	url = git://github.com/dmirkitanov/gtm-http-fetcher.git
